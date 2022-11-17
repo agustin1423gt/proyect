@@ -1,0 +1,8 @@
+<section class="content about">
+        <h2 class="title">nosotros</h2>
+        <p>Esto es un proyecto hecho por los estudiantes de la institucion C.E.T 30, de 4º4 para agilizar todo lo que
+            biene siendo asistencias.</p>
+
+        <a href="#" class="btn">saber mas</a>
+
+    </section>

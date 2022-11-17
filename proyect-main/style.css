@@ -48,6 +48,19 @@ body {
     font-size: 20px;
 }
 
+.Enlace {
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 20px;
+    border: 2px solid  skyblue;
+    color: white;
+    text-decoration: none;
+    background:  cornflowerblue;
+
+
+}
+
 .navbar a {
     display: block;
     padding: 23px 20px;
@@ -135,13 +148,13 @@ p {
 }
 
 .box-container .box {
-    height: 11rem;
+    height: 30rem;
     width: 17rem;
     background: #230230;
     text-align: center;
     border-radius: 1rem;
-    box-shadow: 0 .3 5rem rgba(0, 0, 0, .5);
-    margin: 2rem;
+    box-shadow: 0 .3 10rem rgba(0, 0, 0, .5);
+    margin: 6rem;
 }
 
 .box-container .box i {
@@ -189,7 +202,7 @@ p {
 
 @media(max-width:768px) {
     margin-bottom: 0;
-    font-size: 40px;
+    font-size: 70px;
 
 }
 
