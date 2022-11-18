@@ -6,3 +6,9 @@
         <a href="#" class="btn">saber mas</a>
 
     </section>
+    <div>Cómo llegar</div>
+
+
+    <div class="QqG1Sd"><a style="cursor:pointer" data-url="/maps/dir//cet+30/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x960a30ef2ee4b6b3:0xf60599626c221a60?sa=X" href="#" jsaction="trigger.Ez7VMc" tabindex="0" class="ab_button" role="button" data-ved="2ahUKEwjso5yCp7j7AhWUrZUCHQ5kBnIQ9Rd6BAheEAQ"><div>Cómo llegar</div></a></div>
+
+    <a style="cursor:pointer" data-url="/maps/dir//cet+30/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x960a30ef2ee4b6b3:0xf60599626c221a60?sa=X" href="#" jsaction="trigger.Ez7VMc" tabindex="0" class="ab_button" role="button" data-ved="2ahUKEwiqyfmxp7j7AhUvqJUCHUiFDmoQ9Rd6BAhYEAQ"><div>Cómo llegar</div></a>
